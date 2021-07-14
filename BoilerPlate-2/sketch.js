@@ -1,0 +1,7 @@
+function setUp(){
+
+}
+
+function draw(){
+  
+}
